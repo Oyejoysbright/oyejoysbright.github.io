@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.1b36f4bb.chunk.css",
-    "main.js": "/static/js/main.d4a9a933.chunk.js",
-    "main.js.map": "/static/js/main.d4a9a933.chunk.js.map",
+    "main.css": "/static/css/main.79eea307.chunk.css",
+    "main.js": "/static/js/main.169aa834.chunk.js",
+    "main.js.map": "/static/js/main.169aa834.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.fdb3edcf.js",
     "runtime-main.js.map": "/static/js/runtime-main.fdb3edcf.js.map",
     "static/js/2.0b434832.chunk.js": "/static/js/2.0b434832.chunk.js",
     "static/js/2.0b434832.chunk.js.map": "/static/js/2.0b434832.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.1b36f4bb.chunk.css.map": "/static/css/main.1b36f4bb.chunk.css.map",
+    "static/css/main.79eea307.chunk.css.map": "/static/css/main.79eea307.chunk.css.map",
     "static/js/2.0b434832.chunk.js.LICENSE.txt": "/static/js/2.0b434832.chunk.js.LICENSE.txt",
     "static/media/fonts.css": "/static/media/ubuntu-regular-webfont.4beba85e.woff2"
   },
   "entrypoints": [
     "static/js/runtime-main.fdb3edcf.js",
     "static/js/2.0b434832.chunk.js",
-    "static/css/main.1b36f4bb.chunk.css",
-    "static/js/main.d4a9a933.chunk.js"
+    "static/css/main.79eea307.chunk.css",
+    "static/js/main.169aa834.chunk.js"
   ]
 }
